@@ -35,8 +35,6 @@ I work on the front line of enterprise IT support as a Senior Service Desk Techn
 | Project | Description |
 | :--- | :--- |
 | [**cloud-blueprints**](https://github.com/Samosinolouis/cloud-blueprints) | Modular cloud infrastructure deployments built with Azure Bicep and Azure CLI, including automated resource provisioning, secure storage accounts, and role-based access patterns. |
-| **Enterprise Endpoint Hardening and Zero Trust Lab** | Intune configuration profiles, Cloud LAPS integration, BitLocker automation, and PowerShell-driven compliance baselines. |
-| **Cloud-Native Virtual Desktop Lab** | Azure Virtual Desktop (AVD) multi-session deployment integrated with Entra-joined FSLogix profile storage. |
 
 ---
 
@@ -44,31 +42,14 @@ I work on the front line of enterprise IT support as a Senior Service Desk Techn
 
 | Certification | Status |
 | :--- | :--- |
-| Microsoft Certified: Identity and Access Administrator Associate (SC-300) | Completed |
-| Microsoft Certified: Endpoint Administrator Associate (MD-102) | Completed |
-| Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | Completed |
-| Microsoft 365 Certified: Fundamentals (MS-900) | Completed |
-| CompTIA Security+ (SY0-701) | In progress |
-| Microsoft Certified: Azure Administrator Associate (AZ-104) | Targeting next |
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samosinolouis&show_icons=true&theme=tokyonight&hide_border=true" alt="Louis's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samosinolouis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+| Microsoft Certified: Azure Fundamentals (AZ-900) | In Progress |
 
 ---
 
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/louisjefferson">
+  <a href="[https://linkedin.com/in/louisjefferson](https://www.linkedin.com/in/louis-jefferson-samosino-061465254/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
