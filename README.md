@@ -1,5 +1,3 @@
-<h1 align="center">Louis Jefferson Samosino</h1>
-
 <p align="center">
   <strong>Senior Service Desk Technician at TTEC</strong><br />
   Aspiring Cloud and Cybersecurity Engineer | Philippines
