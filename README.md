@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Louis Jefferson Samosino</h1>
 
-<!--
-**Samosinolouis/Samosinolouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Senior Service Desk Technician at TTEC</strong><br />
+  Aspiring Cloud and Cybersecurity Engineer | Philippines
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Microsoft_Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I work on the front line of enterprise IT support as a Senior Service Desk Technician at TTEC, resolving escalations and keeping users productive. Outside of work, I build and document labs focused on infrastructure-as-code (Azure Bicep), cloud identity, endpoint hardening, and automation, with the goal of moving into cloud and security engineering.
+
+---
+
+## Tech Stack
+
+| Area | Tools and Technologies |
+| :--- | :--- |
+| **Cloud and Infrastructure** | `Azure` `Bicep` `Azure CLI` `PowerShell` `Entra ID` `Intune` |
+| **Systems and Administration** | `Windows Server` `Linux (Arch / Debian)` `pfSense` `Virtualization (QEMU/KVM)` |
+| **ITSM and Tooling** | `ServiceNow` `Git` `Bash` `Power Automate` |
+
+---
+
+## Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| [**cloud-blueprints**](https://github.com/Samosinolouis/cloud-blueprints) | Modular cloud infrastructure deployments built with Azure Bicep and Azure CLI, including automated resource provisioning, secure storage accounts, and role-based access patterns. |
+| **Enterprise Endpoint Hardening and Zero Trust Lab** | Intune configuration profiles, Cloud LAPS integration, BitLocker automation, and PowerShell-driven compliance baselines. |
+| **Cloud-Native Virtual Desktop Lab** | Azure Virtual Desktop (AVD) multi-session deployment integrated with Entra-joined FSLogix profile storage. |
+
+---
+
+## Certifications
+
+| Certification | Status |
+| :--- | :--- |
+| Microsoft Certified: Identity and Access Administrator Associate (SC-300) | Completed |
+| Microsoft Certified: Endpoint Administrator Associate (MD-102) | Completed |
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | Completed |
+| Microsoft 365 Certified: Fundamentals (MS-900) | Completed |
+| CompTIA Security+ (SY0-701) | In progress |
+| Microsoft Certified: Azure Administrator Associate (AZ-104) | Targeting next |
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samosinolouis&show_icons=true&theme=tokyonight&hide_border=true" alt="Louis's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samosinolouis&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/louisjefferson">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
