@@ -22,13 +22,6 @@ Front-line enterprise IT support at TTEC, resolving escalations across multiple 
 
 Outside of work, I build labs around infrastructure-as-code (Azure Bicep), cloud identity, endpoint hardening, and automation, working toward a cloud and security engineering role.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/United_States-0A3161?style=flat-square" alt="United States" />
-  <img src="https://img.shields.io/badge/US_Public_Sector-1F6FEB?style=flat-square" alt="US Public Sector" />
-  <img src="https://img.shields.io/badge/Mexico-006847?style=flat-square" alt="Mexico" />
-  <img src="https://img.shields.io/badge/Europe-003399?style=flat-square" alt="Europe" />
-</p>
-
 ---
 
 ## Skills and Tools
